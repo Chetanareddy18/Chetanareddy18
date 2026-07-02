@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+(GPA+9.82%2F10);%F0%9F%8F%A5+AI%2FML+%26+Data+Engineering+Intern+%40+Apollo+Hospitals%2C+Hyderabad;%F0%9F%9B%A1%EF%B8%8F+Building+Shadow+AI+%E2%80%94+Enterprise+LLM+Security+Gateway;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+AI+Products+%26+Intelligent+Systems;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+EdTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+(GPA+9.82%2F10);%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engg+Intern+%40+Apollo+Hospitals+(Causal+ML+on+ICU+data);%F0%9F%9B%A1%EF%B8%8F+Building+Shadow+AI+%E2%80%94+Enterprise+LLM+Security+Gateway;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+AI+Products+%26+Intelligent+Systems;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+EdTech" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,13 +53,12 @@ class ChetanaReddy:
     building_now = [
         "🛡️ Shadow AI — Enterprise LLM Security Gateway",
         "🏢 Oronzo LLP — AI products & intelligent systems",
-        "🏥 Causal ML pipelines on real ICU data",
     ]
 
     domains = [
         "Healthcare AI", "LLM Security", "Agentic AI",
-        "Computer Vision", "Causal ML", "EdTech",
-        "Fintech", "Cybersecurity", "Supply Chain",
+        "Computer Vision", "Causal ML", "Fintech",
+        "Cybersecurity", "Supply Chain", "NLP",
     ]
 
     beliefs = [
@@ -78,7 +77,7 @@ class ChetanaReddy:
 |---|---|
 | 🛡️ | Building **Shadow AI** (LLM Security) |
 | 🏢 | **Founder & CEO** @ Oronzo LLP |
-| 🏥 | AI/ML Intern @ **Apollo Hospitals** |
+| 🏥 | **Ex** AI/ML Intern @ **Apollo Hospitals** |
 | 🥇 | **Gold Medalist** — GPA 9.82/10 |
 | 🏆 | **NPTEL Elite — Top 2% Nationally** |
 | 🔐 | **IIT Madras × BITS Pilani** Hackathon Finalist |
@@ -111,8 +110,8 @@ class ChetanaReddy:
 | Project | What it is | Status | Stack |
 |---|---|---|---|
 | **🛡️ Shadow AI** | Production-grade Enterprise LLM Security Gateway — 15 security layers, IsolationForest anomaly detection, per-org policy engine, Slack/SMTP alerts, Prometheus metrics | 🟢 **Active** | `FastAPI` `TF-IDF` `IsolationForest` `PostgreSQL` `Docker` `Prometheus` |
-| **🏢 Oronzo LLP** | AI products studio — building Vidvas Gurukul (EdTech platform) + intelligent automation systems | 🟢 **Active** | `React` `LangChain` `FastAPI` `RAG` |
-| **🏥 Apollo Internship** | Causal ML on real ICU data — treatment effect estimation, 383K vitals records, clinical dashboards | 🟢 **Active** | `CausalML` `XGBoost` `InfluxDB` `SHAP` |
+| **🏢 Oronzo LLP** | AI products studio — intelligent automation systems, AI security tooling, agentic AI products | 🟢 **Active** | `LangChain` `FastAPI` `RAG` `LLMs` |
+| **🏥 Apollo Hospitals** | Built MedCausal (causal ML on 500 real ICU patients) + clinical analytics pipeline — ATE bias 0.02d, E-value 3.54 | ✅ **Completed** | `CausalML` `XGBoost` `InfluxDB` `SHAP` |
 
 </div>
 
@@ -314,7 +313,7 @@ Per-patient treatment effect estimation on **500 real ICU patients × 383K vital
 - 🎯 X-Learner: ATE bias **0.02 days**, CATE r = **0.77**
 - 🛡️ E-value = **3.54** — robust to hidden confounders
 - 📊 6-tab what-if simulator: slide age/SpO₂ → live CATE
-- 🏥 Real data @ **Apollo Hospitals**
+- 🏥 Built during **Apollo Hospitals** internship
 
 `CausalML` `XGBoost` `SHAP` `Meta-Learners` `Streamlit`
 
@@ -546,7 +545,7 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
    └── Shadow AI — Enterprise LLM Security Gateway (flagship product, actively shipping)
    └── Driving product strategy, engineering, and AI research
 
-🏥 Apollo Hospitals, Hyderabad          AI/ML & Data Engineering Intern      April 2026 – Present
+🏥 Apollo Hospitals, Hyderabad          AI/ML & Data Engineering Intern      April 2026 – June 2026
    └── MedCausal: Causal ML on 500 real ICU patients · ATE bias 0.02d · E-value 3.54
    └── 61K+ time-series vitals pipeline → InfluxDB → SQL → clinical anomaly detection
    └── Counterfactual Streamlit dashboard with live what-if simulator
