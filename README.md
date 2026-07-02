@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════════════ HERO HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=300&section=header&text=Palla%20Chetana%20Reddy&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Builder%20of%20Intelligent%20Systems&descAlignY=56&descSize=21&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0f0c29&height=320&section=header&text=Palla%20Chetana%20Reddy&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Security%20Builder%20%E2%80%A2%20Founder%20%40%20Oronzo%20LLP&descAlignY=58&descSize=20&descColor=C4B5FD&stroke=8B5CF6&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&width=800&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+University;%F0%9F%A5+AI%2FML+%26+Data+Engineering+Intern+%40+Apollo+Hospitals%2C+Hyderabad;%F0%9F%9A%80+Founder+%26+CEO+%40+Oronzo+LLP;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Healthcare+AI;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+NxtWave+CCBP+4.0+Fellow;%E2%9A%A1+22%2B+Projects+across+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+Supply+Chain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+(GPA+9.82%2F10);%F0%9F%8F%A5+AI%2FML+%26+Data+Engineering+Intern+%40+Apollo+Hospitals%2C+Hyderabad;%F0%9F%9B%A1%EF%B8%8F+Building+Shadow+AI+%E2%80%94+Enterprise+LLM+Security+Gateway;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+AI+Products+%26+Intelligent+Systems;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+EdTech" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,6 +24,8 @@
 <a href="https://palla-chetana-reddy.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C851?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open"/>
 
 </div>
 
@@ -32,58 +34,65 @@
 <!-- ═══════════════════════ ABOUT + QUICK STATS ═══════════════════════ -->
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
 ## 🧠 Who Am I?
 
 ```python
 class ChetanaReddy:
-    name     = "Palla Chetana Reddy"
-    role     = "AI Engineer & Data Scientist"
-    location = "Hyderabad, India 🇮🇳"
-    
+    name      = "Palla Chetana Reddy"
+    role      = "AI Engineer & Security Builder"
+    location  = "Hyderabad, India 🇮🇳"
+    gpa       = "9.82 / 10 — Gold Medalist 🥇"
+
     education = {
-        "degree"  : "B.Tech CSE (Data Science)",
-        "uni"     : "Woxsen University",
-        "rank"    : "🥇 Gold Medalist"
+        "degree" : "B.Tech CSE (Data Science) 2023–27",
+        "uni"    : "Woxsen University",
     }
 
-    currently = [
-        "AI/ML Intern @ Apollo Hospitals",
-        "Building causal ML pipelines on ICU data",
-        "Founder & CEO @ Oronzo LLP",
+    building_now = [
+        "🛡️ Shadow AI — Enterprise LLM Security Gateway",
+        "🏢 Oronzo LLP — AI products & intelligent systems",
+        "🏥 Causal ML pipelines on real ICU data",
     ]
 
-    beliefs   = [
+    domains = [
+        "Healthcare AI", "LLM Security", "Agentic AI",
+        "Computer Vision", "Causal ML", "EdTech",
+        "Fintech", "Cybersecurity", "Supply Chain",
+    ]
+
+    beliefs = [
         "Real impact > benchmark chasing",
-        "Explainable AI matters in healthcare",
+        "Security + AI = non-negotiable",
         "Build it. Ship it. Measure it.",
     ]
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="44%" valign="top">
 
 ## ⚡ Quick Stats
 
 | | |
 |---|---|
+| 🛡️ | Building **Shadow AI** (LLM Security) |
+| 🏢 | **Founder & CEO** @ Oronzo LLP |
 | 🏥 | AI/ML Intern @ **Apollo Hospitals** |
-| 🥇 | **Gold Medalist**, B.Tech Data Science |
+| 🥇 | **Gold Medalist** — GPA 9.82/10 |
 | 🏆 | **NPTEL Elite — Top 2% Nationally** |
+| 🔐 | **IIT Madras × BITS Pilani** Hackathon Finalist |
 | 🌏 | **Japan Design Expo** representative |
-| 🚀 | **22+ projects** shipped & deployed |
-| 🤝 | Founder & CEO @ **Oronzo LLP** |
-| 📡 | NxtWave **CCBP 4.0 Fellow** |
+| 🚀 | **30+ projects** built & shipped |
 | 🎯 | **AIR 89** — NASO National Olympiad |
 | 🧮 | **Abacus Master Graduate** (age 15) |
-| 💡 | Available for **opportunities** |
 
 <br/>
 
 <div align="center">
 
-![Available](https://img.shields.io/badge/Status-Available%20for%20Opportunities-00C851?style=flat-square&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Status-Building%20%F0%9F%94%A5-8B5CF6?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Hyderabad-India%20%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=flat-square&labelColor=1a1a2e)
 
 </div>
 
@@ -95,15 +104,37 @@ class ChetanaReddy:
 
 <!-- ═══════════════════════ CURRENTLY BUILDING ═══════════════════════ -->
 
-## 🔥 What I'm Building Right Now
+## 🔥 Currently Building
 
 <div align="center">
 
-| Project | Description | Stack |
+| Project | What it is | Status | Stack |
+|---|---|---|---|
+| **🛡️ Shadow AI** | Production-grade Enterprise LLM Security Gateway — 15 security layers, IsolationForest anomaly detection, per-org policy engine, Slack/SMTP alerts, Prometheus metrics | 🟢 **Active** | `FastAPI` `TF-IDF` `IsolationForest` `PostgreSQL` `Docker` `Prometheus` |
+| **🏢 Oronzo LLP** | AI products studio — building Vidvas Gurukul (EdTech platform) + intelligent automation systems | 🟢 **Active** | `React` `LangChain` `FastAPI` `RAG` |
+| **🏥 Apollo Internship** | Causal ML on real ICU data — treatment effect estimation, 383K vitals records, clinical dashboards | 🟢 **Active** | `CausalML` `XGBoost` `InfluxDB` `SHAP` |
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ORONZO LLP ═══════════════════════ -->
+
+## 🏢 Oronzo LLP — My Startup
+
+<div align="center">
+
+> *Building the next generation of AI-powered products.*
+
+</div>
+
+<div align="center">
+
+| Product | Description | Stack |
 |---|---|---|
-| **MedCausal** 🏥 | Per-patient ICU treatment effect estimation — X-Learner, ATE bias: **0.02 days**, CATE r=**0.77** | `CausalML` `XGBoost` `SHAP` `Streamlit` |
-| **ICU Vitals Pipeline** 📊 | 61K+ time-series records → InfluxDB → SQL analytics → clinical anomaly detection | `InfluxDB` `SQL` `Pandas` `Python` |
-| **Oronzo LLP** ⚡ | Building intelligent systems & AI products as Founder & CEO | `LLMs` `FastAPI` `RAG` `LangChain` |
+| **🤖 Intelligent Automation** | LLM-powered workflow automation, agentic AI pipelines & RAG-based knowledge systems for enterprise | `LangChain` `FastAPI` `RAG` `LLMs` |
+| **📊 AI Analytics** | Data-driven reporting pipelines & intelligent dashboards for business decision-making | `Python` `Power BI` `FastAPI` `Streamlit` |
+| **🛡️ AI Security** | Enterprise-grade LLM security tooling — Shadow AI is the flagship product | `FastAPI` `Docker` `PostgreSQL` `Prometheus` |
 
 </div>
 
@@ -119,37 +150,67 @@ class ChetanaReddy:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+
+### 🧬 Deep Learning Architectures
+![CNNs](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logoColor=white)
+![Swin Transformer](https://img.shields.io/badge/Swin%20Transformer-6D28D9?style=flat-square)
+![Vision Transformer](https://img.shields.io/badge/ViT-7C3AED?style=flat-square)
+![U--Net](https://img.shields.io/badge/U--Net-059669?style=flat-square)
+![GNN](https://img.shields.io/badge/GNN-2563EB?style=flat-square)
+![MARL](https://img.shields.io/badge/MARL-DC2626?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-0891B2?style=flat-square)
+![TrOCR](https://img.shields.io/badge/TrOCR-7C3AED?style=flat-square)
+![Grad--CAM](https://img.shields.io/badge/Grad--CAM-16A34A?style=flat-square)
+![CausalML](https://img.shields.io/badge/Causal%20ML-9333EA?style=flat-square)
 
 ### 🦜 LLMs / Agentic AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D9CDB?style=for-the-badge&logo=graphql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### ⚙️ Backend / APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 📊 Data Engineering
+### 🖥️ Languages & Frontend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 📊 Data Engineering & Analytics
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### ☁️ Cloud / DevOps
+### ☁️ Cloud / DevOps / Security
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -182,13 +243,64 @@ class ChetanaReddy:
 
 ## 🚀 Featured Projects
 
-> 22+ projects across Healthcare AI · Fintech · Cybersecurity · Supply Chain · NLP · Computer Vision
+> **30+ projects** across Healthcare AI · LLM Security · Agentic AI · Fintech · Cybersecurity · Computer Vision · EdTech · Supply Chain
 
-<div align="center">
+---
+
+### 🛡️ Security & Agentic AI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [Shadow AI](https://github.com/Chetanareddy18/ShadowAI) ⭐ Active
+**Enterprise AI Security Gateway** — *Currently Building*
+
+Production-grade gateway between users and any LLM. Intercepts every prompt, scans for threats, enforces per-org policies — all in real time.
+
+- 🔍 **15 security layers**: Auth (JWT+SHA-256) → Rate Limiting → 20+ Regex patterns → Semantic Injection (TF-IDF + LogReg) → PII Scanner → Topic Classification → Policy Engine → Response Scanner
+- 🧠 **IsolationForest** per-user behavioural anomaly detection
+- 🗃️ **PostgreSQL** audit log — every interaction persisted
+- 🔔 **Slack + SMTP** alerts on critical risk
+- 📊 **6-tab Streamlit** SOC dashboard — threats, topics, user behaviour, time-series
+- 📈 **Prometheus** `/metrics` endpoint + Admin API
+
+`FastAPI` `IsolationForest` `TF-IDF` `PostgreSQL` `Docker` `Prometheus` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [IncidentOps](https://github.com/Chetanareddy18/IncidentOps-OpenEnv)
+**AI Agent Incident Response Benchmark**
+
+OpenEnv benchmark for AI agents diagnosing & resolving fintech production outages.
+
+- 🎯 First agent run scored **0.93 / 1.0**
+- 🔁 5 difficulty-graded scenarios, 13 typed actions
+- 🧪 **90 tests, all passing** — Dockerized on HF Spaces
+- 🔌 Any LLM or RL agent pluggable via REST
+
+`OpenEnv` `FastAPI` `Docker` `Pydantic` `pytest`
+
+---
+
+### 🛡️ [HoneyCloud-X](https://github.com/Chetanareddy18/HoneyCloud-X)
+**AI-Powered Cloud Honeypot & SOC**
+
+- 🐝 Adaptive SSH + Web honeypots evolving on attacker behavior
+- 🌲 Random Forest + Isolation Forest on **CIC-Honeynet**
+- 📊 Live React SOC dashboard: attack maps, heatmaps
+- ⚡ Full incident lifecycle management
+
+`Python` `FastAPI` `React` `Random Forest` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🏥 Healthcare AI & Causal ML
-
-</div>
 
 <table>
 <tr>
@@ -197,70 +309,29 @@ class ChetanaReddy:
 ### 🔬 [MedCausal](https://github.com/Chetanareddy18/MedCausal)
 **ICU Causal ML & Counterfactual Dashboard**
 
-Per-patient treatment effect estimation on **500 real ICU patients × 383K vitals records**.
+Per-patient treatment effect estimation on **500 real ICU patients × 383K vitals**.
 
 - 🎯 X-Learner: ATE bias **0.02 days**, CATE r = **0.77**
 - 🛡️ E-value = **3.54** — robust to hidden confounders
-- 📊 6-tab Streamlit what-if simulator: slide age/SpO₂ → live CATE update
-- 🏥 Built during **Apollo Hospitals** internship
+- 📊 6-tab what-if simulator: slide age/SpO₂ → live CATE
+- 🏥 Real data @ **Apollo Hospitals**
 
-`CausalML` `XGBoost` `SHAP` `Meta-Learners` `Bootstrap CI` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [ICU Vitals Pipeline](https://github.com/Chetanareddy18/icu-vitals-monitoring-analytics-pipeline)
-**End-to-End Clinical Analytics Pipeline**
-
-Real-time ICU monitoring with **61,930 records** ingested across 10 real patients.
-
-- ⏱️ InfluxDB time-series → SQL aggregation layer
-- 🚨 Automated anomaly detection & deterioration alerts
-- 🔗 Feeds directly into **MedCausal** downstream
-- 🏥 Production-grade @ **Apollo Hospitals**
-
-`InfluxDB` `SQL` `Pandas` `Python` `Time-Series`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### ⚡ Agentic AI & Security
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [IncidentOps](https://github.com/Chetanareddy18/IncidentOps-OpenEnv)
-**AI Agent Incident Response Benchmark**
-
-OpenEnv benchmark for fintech production outage resolution.
-
-- 🎯 First agent run scored **0.93 / 1.0**
-- 🔁 5 scenarios, 13 typed actions, dense reward signal
-- 🧪 **90 tests, all passing**
-- 🔌 Plug any LLM or RL agent via REST API
-
-`OpenEnv` `FastAPI` `LLM Agents` `Docker` `RL`
+`CausalML` `XGBoost` `SHAP` `Meta-Learners` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [HoneyCloud-X](https://github.com/Chetanareddy18/HoneyCloud-X)
-**AI-Powered Cloud Honeypot & SOC Platform**
+### ✍️ [AirWriter](https://github.com/Chetanareddy18/AirWriter)
+**Real-Time Air Writing Recognition**
 
-Adaptive AI-driven honeypot with ML threat classification.
+Write characters in the air with your finger — recognised on screen in real time.
 
-- 🐝 Adaptive SSH + Web honeypots evolving on attacker behavior
-- 🌲 Random Forest + Isolation Forest on **CIC-Honeynet**
-- 📊 Live React SOC dashboard with attack maps & heatmaps
-- ⚡ Full incident lifecycle: detection → triage → response
+- 🖐️ MediaPipe Hands — **21 landmarks at 30+ FPS**
+- 🧠 Custom CNN on EMNIST — **~88% accuracy, 47 classes**
+- ✋ 7 intuitive gestures with EMA stroke smoothing
+- 🌐 Streamlit + WebRTC browser version included
 
-`Python` `FastAPI` `React` `Random Forest` `Docker`
+`MediaPipe` `OpenCV` `CNN` `EMNIST` `PyTorch` `Streamlit`
 
 </td>
 </tr>
@@ -270,69 +341,129 @@ Adaptive AI-driven honeypot with ML threat classification.
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 [Shadow AI](https://github.com/Chetanareddy18/ShadowAI)
-**LLM Security Gateway**
+### 🫁 [Chest Disease Detection](https://github.com/Chetanareddy18/Explainable-Chest-Disease-Detection)
+**Explainable AI Medical Imaging**
 
-Real-time prompt injection detection & PII scanning for LLM interactions.
+- 🧠 CNNs + **Swin Transformer** on 5,000+ medical images
+- 🗺️ **Grad-CAM** explainability for clinical interpretability
+- 👨‍⚕️ Human-in-the-loop validation reducing false positives
 
-- 🔍 Classifies prompt injection across LLM layers
-- 🔐 Scans for PII, credentials, and confidential data
-- 📡 SOC dashboard with real-time alerting
-
-`FastAPI` `Streamlit` `LLM Security`
+`PyTorch` `Swin Transformer` `Grad-CAM` `Computer Vision`
 
 </td>
+<td width="50%" valign="top">
+
+### 🔬 [SoftSkill Analyzer](https://github.com/Chetanareddy18/SoftSkillAnalyzer)
+**Multimodal Soft Skill Detection**
+
+Audio + text fusion model for real-time communication skill analysis.
+
+- 🎤 Audio features via **librosa** + text NLP fusion
+- 🧠 TensorFlow/Keras multimodal classification
+- 🌐 Flask web app deployment
+
+`TensorFlow` `Keras` `librosa` `OpenCV` `Flask`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚁 Robotics & Autonomous Systems
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚁 [DroneSwarm](https://github.com/Chetanareddy18/DroneSwarm)
-**Drone Swarm Self-Healing Network**
+**Self-Healing Drone Swarm Network**
 
-Multi-agent RL for adaptive drone communication networks.
+Multi-agent RL for adaptive drone communication networks with Unity 3D visualisation.
 
 - 🌐 **96.8% network stability**, avg recovery: **4 steps**
 - 🧠 GAE + VGAE + Graph GAN + Graph Diffusion
+- 🕹️ **Unity 3D** swarm formation demo
 - 🤖 Decentralized MARL control
 
-`GNN` `GAE` `VGAE` `MARL` `Streamlit`
+`PyTorch` `GNN` `GAE` `VGAE` `MARL` `Unity 3D`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [MultiHorizon Stocks](https://github.com/Chetanareddy18/MultiHorizonStockForecasting)
+**Regime-Aware NIFTY 50 Forecasting**
+
+1-day, 7-day & 30-day horizons with dynamic ensemble switching.
+
+- 🧩 LSTM + TFT + Prophet — optimal per market regime
+- 📊 Monte Carlo Dropout + Quantile Regression bands
+- ✅ Sub-1% MAPE on global ETF cross-validation
+- 🔁 Live backtester: any date 2015–2024, no look-ahead
+
+`LSTM` `TFT` `Prophet` `Regime Detection` `VaR` `CVaR`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-### 📈 Fintech & Data
-
-</div>
+### ⚡ Fintech, Data & More
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📉 [MultiHorizon Stocks](https://github.com/Chetanareddy18/MultiHorizonStockForecasting)
-**Regime-Aware Stock Forecasting — NIFTY 50**
+### ⚡ [SparkShield](https://github.com/Chetanareddy18/sparkshield-fraud-detection)
+**Distributed Fraud Detection**
 
-1-day, 7-day & 30-day forecasting with dynamic ensemble switching.
+- 🔥 PySpark pipeline — **6M+ transactions**, **AUC-ROC 0.9995**
+- 🌊 Kafka + Spark Structured Streaming — **50 events/sec**
+- 📊 Low/Medium/High risk scoring (0–100)
 
-- 🧩 LSTM + TFT + Prophet — optimal per regime
-- 📊 Monte Carlo Dropout uncertainty bands
-- ✅ Sub-1% MAPE on global ETF validation
-
-`LSTM` `TFT` `Prophet` `Regime Detection`
+`PySpark` `Kafka` `GBT` `Docker` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [SparkShield](https://github.com/Chetanareddy18/sparkshield-fraud-detection)
-**Scalable AI Fraud Detection**
+### 🏥 [ICU Vitals Pipeline](https://github.com/Chetanareddy18/icu-vitals-monitoring-analytics-pipeline)
+**Clinical Analytics Pipeline**
 
-Distributed fraud detection for digital payments at scale.
+- ⏱️ **61,930 records** ingested into InfluxDB
+- 🚨 Automated anomaly + deterioration detection
+- 📦 Published **49.7 MB dataset** on Kaggle
 
-- 🔥 PySpark distributed processing pipeline
-- 🌲 Gradient Boosted Trees with AUC-ROC evaluation
-- 📊 Real-time Streamlit analytics dashboard
+`InfluxDB` `SQL` `Python` `Time-Series`
 
-`PySpark` `Apache Spark` `GBT` `Streamlit`
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [Supply Chain Risk](https://github.com/Chetanareddy18/Predictive-Risk-Supply-Chain-Management-System)
+**Predictive Risk Management**
+
+- 📈 **28%** disruption detection improvement
+- 🗄️ Star Schema — **18+ datasets** integrated
+- 🗺️ **1,000+ route** graph simulations (NetworkX)
+
+`XGBoost` `LightGBM` `GNN` `Power BI`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [ChexBot](https://github.com/Chetanareddy18/ChexBot)
+**Offline Agentic AI Chatbot**
+
+- 🎯 **95%** response accuracy, 10+ intent types
+- 💰 **100% cost reduction** — fully offline Ollama LLM
+- 🔗 LangGraph multi-turn memory management
+
+`LangGraph` `LangChain` `Ollama (Phi-3)` `NLP`
 
 </td>
 </tr>
@@ -340,7 +471,7 @@ Distributed fraud detection for digital payments at scale.
 
 <div align="center">
 
-**[→ See All 22+ Projects](https://github.com/Chetanareddy18?tab=repositories)**
+**[→ See All 30+ Projects on GitHub](https://github.com/Chetanareddy18?tab=repositories)**
 
 </div>
 
@@ -352,9 +483,11 @@ Distributed fraud detection for digital payments at scale.
 
 <div align="center">
 
-| 🥇 | **Gold Medalist** — B.Tech CSE Data Science, Woxsen University |
+| | Achievement |
 |---|---|
+| 🥇 | **Gold Medalist** — B.Tech CSE Data Science, Woxsen University (GPA 9.82/10) |
 | 🏆 | **NPTEL Elite Top 2% Nationally** — User-Centric HCI, IIT Guwahati (87%, 1,733 candidates) |
+| 🔐 | **Finalist — IIT Madras × BITS Pilani** Secure AI Software Hackathon 2026 — Top 46 teams nationally |
 | 🌏 | **Japan Design Expo** — Selected project representing Woxsen University internationally |
 | ⚡ | **Top 10 Winner** — Innoverse 12-Hour Hackathon (COTD) |
 | 🌟 | **NxtWave Consistent Champion** — CCBP 4.0 Fellow |
@@ -362,7 +495,7 @@ Distributed fraud detection for digital payments at scale.
 | 🏅 | **Top 10 Performer** — YATT, NSTSE & START National Olympiads |
 | 🏆 | **1st Place** — Elocution Competition, Quthbullapur Mandal (500+ participants) |
 | 📚 | **SIP Lead** — Established school library, Aroor Village |
-| 🧮 | **Master Graduate in Abacus** — Advanced mental arithmetic certification at age 15 |
+| 🧮 | **Master Graduate in Abacus** — Advanced mental arithmetic at age 15 |
 
 </div>
 
@@ -379,7 +512,7 @@ Distributed fraud detection for digital payments at scale.
 <td>
 
 **☁️ Generative AI & Cloud**
-- 🟧 AWS — Operationalizing GenAI Applications (FMOps/LLMOps)
+- 🟧 AWS — Operationalizing GenAI (FMOps/LLMOps)
 - 🟧 AWS Academy Generative AI Foundations
 - 🔵 Google Cloud — Intro to Generative AI
 - 🔷 IBM Watson — Rapid AI Development
@@ -392,7 +525,8 @@ Distributed fraud detection for digital payments at scale.
 - 🎓 Math for ML — Imperial College London
 - 🧠 Probability & Stats — DeepLearning.AI
 - 🐍 Python for DS & AI — IBM (Coursera)
-- 📊 GenAI Data Analytics — Tata Group (Forage)
+- 📊 Data Structures — UC San Diego (Coursera)
+- 📊 GenAI Analytics — Tata Group (Forage)
 
 </td>
 </tr>
@@ -407,19 +541,24 @@ Distributed fraud detection for digital payments at scale.
 ## 💼 Experience
 
 ```
-🏥 Apollo Hospitals, Hyderabad          AI/ML & Data Engineering Intern     April 2026 – Present
-   └── MedCausal: Causal ML on 500 ICU patients · ATE bias 0.02d · E-value 3.54
-   └── 61K+ time-series vitals pipeline · InfluxDB · clinical anomaly detection
+🛡️ Oronzo LLP                           Founder & CEO                        2025 – Present
+   └── Building AI products: intelligent automation systems, AI security tooling
+   └── Shadow AI — Enterprise LLM Security Gateway (flagship product, actively shipping)
+   └── Driving product strategy, engineering, and AI research
+
+🏥 Apollo Hospitals, Hyderabad          AI/ML & Data Engineering Intern      April 2026 – Present
+   └── MedCausal: Causal ML on 500 real ICU patients · ATE bias 0.02d · E-value 3.54
+   └── 61K+ time-series vitals pipeline → InfluxDB → SQL → clinical anomaly detection
    └── Counterfactual Streamlit dashboard with live what-if simulator
 
-🤖 Quadone Technologies, Hyderabad      AI Developer Intern                  April 2025 – May 2025
-   └── AI-powered WhatsApp RAG chatbot handling 100+ daily queries
-   └── Vector semantic retrieval — +25% accuracy · reduced hallucinations
+🤖 Quadone Technologies, Hyderabad      AI Developer Intern                   April 2025 – May 2025
+   └── WhatsApp RAG chatbot — 100+ daily queries · +25% accuracy · reduced hallucinations
+   └── AI agents + healthcare analytics dashboards
 
-🌐 Sarvani Software Solutions           WordPress Developer Intern           May 2025 – June 2025
-   └── Responsive sites with Elementor · +30% performance improvement
+🌐 Sarvani Software Solutions           WordPress Developer Intern            May 2025 – June 2025
+   └── Responsive websites with Elementor · +30% performance improvement
 
-💻 ITSR                                 Web Developer                        June 2025 – July 2025
+💻 ITSR                                 Web Developer Intern                  June 2025 – July 2025
    └── User-focused web features · cross-functional collaboration
 ```
 
@@ -466,10 +605,14 @@ Distributed fraud detection for digital payments at scale.
 <a href="https://github.com/Chetanareddy18">
   <img src="https://img.shields.io/badge/GitHub-Chetanareddy18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="mailto:pallachetana@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pallachetana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-> *"Real impact over benchmark chasing — build systems that matter."*
+> *"Real impact over benchmark chasing — build systems that matter, secure systems that last."*
 
 </div>
 
