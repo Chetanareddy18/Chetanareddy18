@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- ═══════════════════════ HERO HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0f0c29&height=320&section=header&text=Palla%20Chetana%20Reddy&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Security%20Builder%20%E2%80%A2%20Founder%20%40%20Oronzo%20LLP&descAlignY=58&descSize=20&descColor=C4B5FD&stroke=8B5CF6&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0f0c29&height=320&section=header&text=Palla%20Chetana%20Reddy&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Founder%20%40%20Oronzo%20LLP&descAlignY=58&descSize=20&descColor=C4B5FD&stroke=8B5CF6&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+University;%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engg+Intern+%40+Apollo+Hospitals+(Causal+ML+on+ICU+data);%F0%9F%9B%A1%EF%B8%8F+Building+Shadow+AI+%E2%80%94+Enterprise+LLM+Security+Gateway;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+AI+Products+%26+Intelligent+Systems;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+EdTech" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI+Engineer+%E2%80%A2+ML+Engineer+%E2%80%A2+Data+Scientist;%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+University;%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engg+Intern+%40+Apollo+Hospitals+(Causal+ML+on+ICU+data);%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+Multi-Vertical+AI+Tech+Group;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity" alt="Typing SVG" />
 
 <br/>
+
+*✦ &nbsp; DRIVEN BY DATA &nbsp;&nbsp;|&nbsp;&nbsp; INSPIRED BY IMPACT &nbsp;&nbsp;|&nbsp;&nbsp; BUILT FOR INNOVATION &nbsp; ✦*
 
 <!-- ═══════════════════════ BADGES ROW ═══════════════════════ -->
 <img src="https://komarev.com/ghpvc/?username=Chetanareddy18&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
@@ -41,7 +41,7 @@
 <br/>
 
 👩‍💻 &nbsp;**Palla Chetana Reddy**
-&nbsp;&nbsp;&nbsp;&nbsp;AI Engineer · Security Builder · Founder
+&nbsp;&nbsp;&nbsp;&nbsp;AI Engineer · ML Engineer · Data Scientist · Founder
 
 📍 &nbsp;Hyderabad, India 🇮🇳
 
@@ -77,7 +77,7 @@
 
 | | |
 |---|---|
-| 🛡️ | Building **Shadow AI** (LLM Security) |
+| 🛡️ | **AI Engineer** · ML Engineer · Data Scientist |
 | 🏢 | **Founder & CEO** @ Oronzo LLP |
 | 🏥 | **Ex** AI/ML Intern @ **Apollo Hospitals** |
 | 🥇 | **Gold Medalist** — B.Tech CSE Data Science |
@@ -100,21 +100,6 @@
 </td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════════ CURRENTLY BUILDING ═══════════════════════ -->
-
-## 🔥 Currently Building
-
-<div align="center">
-
-| Project | What it is | Status | Stack |
-|---|---|---|---|
-| **🛡️ Shadow AI** | Production-grade Enterprise LLM Security Gateway — 15 security layers, IsolationForest anomaly detection, per-org policy engine, Slack/SMTP alerts, Prometheus metrics | 🟢 **Active** | `FastAPI` `TF-IDF` `IsolationForest` `PostgreSQL` `Docker` `Prometheus` |
-| **🏢 Oronzo LLP** | AI products studio — intelligent automation systems, AI security tooling, agentic AI products | 🟢 **Active** | `LangChain` `FastAPI` `RAG` `LLMs` |
-
-</div>
 
 ---
 
@@ -581,11 +566,17 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
 
 <br/>
 
-**🛡️ Oronzo LLP** &nbsp;—&nbsp; **Founder & CEO** &nbsp;&nbsp; ![](https://img.shields.io/badge/2025%E2%80%93Present-8B5CF6?style=flat-square&labelColor=1a1a2e)
+**🛡️ Oronzo LLP** &nbsp;—&nbsp; **Founder & CEO** &nbsp;&nbsp; ![](https://img.shields.io/badge/Apr_2026–Present-8B5CF6?style=flat-square&labelColor=1a1a2e)
 
 > Founded and leading Oronzo LLP, a multi-vertical technology group operating across multiple domains. Driving product vision, company strategy, team building, and end-to-end execution across all verticals — from ideation to deployment.
 
 🔗 **[www.oronzo.io](https://www.oronzo.io)**
+
+**🏢 Oronzo LLP** &nbsp;—&nbsp; **Product Management & Systems Engineering Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/Apr_2026–Present-8B5CF6?style=flat-square&labelColor=1a1a2e)
+
+- Working across product management, systems engineering, and software development
+- Hands-on involvement in the full product lifecycle — ideation → design → development → deployment
+- Built and shipped features using data analytics and DevSecOps practices; end-to-end ownership across multiple domains
 
 <br/>
 
@@ -597,7 +588,7 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
 
 <br/>
 
-**🤖 Quadone Technologies** &nbsp;—&nbsp; **AI Developer Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/Apr_2025%E2%80%93May_2025-3B82F6?style=flat-square&labelColor=1a1a2e)
+**🤖 Quad One** &nbsp;—&nbsp; **AI Development Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/Apr_2025%E2%80%93May_2025-3B82F6?style=flat-square&labelColor=1a1a2e)
 
 - Built AI-powered WhatsApp RAG chatbot — 100+ daily queries · +25% accuracy · reduced hallucinations
 - Contributed to AI agents + healthcare analytics dashboards
