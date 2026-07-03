@@ -38,34 +38,37 @@
 
 ## 🧠 Who Am I?
 
-```python
-class ChetanaReddy:
-    name      = "Palla Chetana Reddy"
-    role      = "AI Engineer & Security Builder"
-    location  = "Hyderabad, India 🇮🇳"
+<br/>
 
-    education = {
-        "degree" : "B.Tech CSE (Data Science) 2023–27",
-        "uni"    : "Woxsen University",
-    }
+👩‍💻 &nbsp;**Palla Chetana Reddy**
+&nbsp;&nbsp;&nbsp;&nbsp;AI Engineer · Security Builder · Founder
 
-    building_now = [
-        "🛡️ Shadow AI — Enterprise LLM Security Gateway",
-        "🏢 Oronzo LLP — AI products & intelligent systems",
-    ]
+📍 &nbsp;Hyderabad, India 🇮🇳
 
-    domains = [
-        "Healthcare AI", "LLM Security", "Agentic AI",
-        "Computer Vision", "Causal ML", "Fintech",
-        "Cybersecurity", "Supply Chain", "NLP",
-    ]
+<br/>
 
-    beliefs = [
-        "Real impact > benchmark chasing",
-        "Security + AI = non-negotiable",
-        "Build it. Ship it. Measure it.",
-    ]
-```
+🎓 &nbsp;**B.Tech CSE — Data Science** &nbsp;`2023 – 2027`
+&nbsp;&nbsp;&nbsp;&nbsp;Woxsen University &nbsp;·&nbsp; 🥇 Gold Medalist
+
+<br/>
+
+🔨 &nbsp;**Currently Building**
+&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Shadow AI — Enterprise LLM Security Gateway
+&nbsp;&nbsp;&nbsp;&nbsp;🏢 Oronzo LLP — Multi-vertical AI tech group
+
+<br/>
+
+🌐 &nbsp;**Domains**
+&nbsp;&nbsp;&nbsp;&nbsp;Healthcare AI &nbsp;·&nbsp; LLM Security &nbsp;·&nbsp; Agentic AI
+&nbsp;&nbsp;&nbsp;&nbsp;Causal ML &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Fintech
+&nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Supply Chain
+
+<br/>
+
+💭 &nbsp;**Beliefs**
+&nbsp;&nbsp;&nbsp;&nbsp;› Real impact > benchmark chasing
+&nbsp;&nbsp;&nbsp;&nbsp;› Security + AI = non-negotiable
+&nbsp;&nbsp;&nbsp;&nbsp;› Build it. Ship it. Measure it.
 
 </td>
 <td width="44%" valign="top">
