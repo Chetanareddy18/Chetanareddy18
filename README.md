@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+(GPA+9.82%2F10);%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engg+Intern+%40+Apollo+Hospitals+(Causal+ML+on+ICU+data);%F0%9F%9B%A1%EF%B8%8F+Building+Shadow+AI+%E2%80%94+Enterprise+LLM+Security+Gateway;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+AI+Products+%26+Intelligent+Systems;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+EdTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+University;%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engg+Intern+%40+Apollo+Hospitals+(Causal+ML+on+ICU+data);%F0%9F%9B%A1%EF%B8%8F+Building+Shadow+AI+%E2%80%94+Enterprise+LLM+Security+Gateway;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+AI+Products+%26+Intelligent+Systems;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity+%E2%80%A2+EdTech" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -43,7 +43,6 @@ class ChetanaReddy:
     name      = "Palla Chetana Reddy"
     role      = "AI Engineer & Security Builder"
     location  = "Hyderabad, India 🇮🇳"
-    gpa       = "9.82 / 10 — Gold Medalist 🥇"
 
     education = {
         "degree" : "B.Tech CSE (Data Science) 2023–27",
@@ -78,7 +77,7 @@ class ChetanaReddy:
 | 🛡️ | Building **Shadow AI** (LLM Security) |
 | 🏢 | **Founder & CEO** @ Oronzo LLP |
 | 🏥 | **Ex** AI/ML Intern @ **Apollo Hospitals** |
-| 🥇 | **Gold Medalist** — GPA 9.82/10 |
+| 🥇 | **Gold Medalist** — B.Tech CSE Data Science |
 | 🏆 | **NPTEL Elite — Top 2% Nationally** |
 | 🔐 | **IIT Madras × BITS Pilani** Hackathon Finalist |
 | 🌏 | **Japan Design Expo** representative |
@@ -111,7 +110,6 @@ class ChetanaReddy:
 |---|---|---|---|
 | **🛡️ Shadow AI** | Production-grade Enterprise LLM Security Gateway — 15 security layers, IsolationForest anomaly detection, per-org policy engine, Slack/SMTP alerts, Prometheus metrics | 🟢 **Active** | `FastAPI` `TF-IDF` `IsolationForest` `PostgreSQL` `Docker` `Prometheus` |
 | **🏢 Oronzo LLP** | AI products studio — intelligent automation systems, AI security tooling, agentic AI products | 🟢 **Active** | `LangChain` `FastAPI` `RAG` `LLMs` |
-| **🏥 Apollo Hospitals** | Built MedCausal (causal ML on 500 real ICU patients) + clinical analytics pipeline — ATE bias 0.02d, E-value 3.54 | ✅ **Completed** | `CausalML` `XGBoost` `InfluxDB` `SHAP` |
 
 </div>
 
@@ -119,21 +117,15 @@ class ChetanaReddy:
 
 <!-- ═══════════════════════ ORONZO LLP ═══════════════════════ -->
 
-## 🏢 Oronzo LLP — My Startup
+## 🏢 Oronzo LLP
 
 <div align="center">
 
-> *Building the next generation of AI-powered products.*
+Founded and leading **Oronzo LLP**, a multi-vertical technology group operating across multiple domains. Driving product vision, company strategy, team building, and end-to-end execution across all verticals — from ideation to deployment.
 
-</div>
+<br/>
 
-<div align="center">
-
-| Product | Description | Stack |
-|---|---|---|
-| **🤖 Intelligent Automation** | LLM-powered workflow automation, agentic AI pipelines & RAG-based knowledge systems for enterprise | `LangChain` `FastAPI` `RAG` `LLMs` |
-| **📊 AI Analytics** | Data-driven reporting pipelines & intelligent dashboards for business decision-making | `Python` `Power BI` `FastAPI` `Streamlit` |
-| **🛡️ AI Security** | Enterprise-grade LLM security tooling — Shadow AI is the flagship product | `FastAPI` `Docker` `PostgreSQL` `Prometheus` |
+[![Website](https://img.shields.io/badge/🌐%20www.oronzo.io-Visit%20Now-8B5CF6?style=for-the-badge&labelColor=1a1a2e)](https://www.oronzo.io)
 
 </div>
 
@@ -480,23 +472,47 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | Achievement |
+**🎓 Academic Excellence**
+
+| | |
 |---|---|
-| 🥇 | **Gold Medalist** — B.Tech CSE Data Science, Woxsen University (GPA 9.82/10) |
-| 🏆 | **NPTEL Elite Top 2% Nationally** — User-Centric HCI, IIT Guwahati (87%, 1,733 candidates) |
-| 🔐 | **Finalist — IIT Madras × BITS Pilani** Secure AI Software Hackathon 2026 — Top 46 teams nationally |
-| 🌏 | **Japan Design Expo** — Selected project representing Woxsen University internationally |
+| 🥇 | **Gold Medalist** — B.Tech CSE Data Science, Woxsen University |
+| 🏆 | **NPTEL Elite Top 2% Nationally** — IIT Guwahati (87%, 1,733 candidates) |
+
+**🏆 Competitions & Innovation**
+
+| | |
+|---|---|
+| 🔐 | **Finalist — IIT Madras × BITS Pilani** Secure AI Hackathon 2026 (Top 46 nationally) |
 | ⚡ | **Top 10 Winner** — Innoverse 12-Hour Hackathon (COTD) |
 | 🌟 | **NxtWave Consistent Champion** — CCBP 4.0 Fellow |
+
+</td>
+<td width="50%" valign="top">
+
+**🌏 International & Recognition**
+
+| | |
+|---|---|
+| 🌏 | **Japan Design Expo** — Woxsen University international representative |
+| 🏆 | **1st Place** — Elocution, Quthbullapur Mandal (500+ participants) |
+| 📚 | **SIP Lead** — Established school library, Aroor Village |
+
+**🎯 Olympiads & Early Excellence**
+
+| | |
+|---|---|
 | 🎯 | **AIR 89 & State Rank 31** — NASO Olympiad (2,00,000+ participants) |
 | 🏅 | **Top 10 Performer** — YATT, NSTSE & START National Olympiads |
-| 🏆 | **1st Place** — Elocution Competition, Quthbullapur Mandal (500+ participants) |
-| 📚 | **SIP Lead** — Established school library, Aroor Village |
-| 🧮 | **Master Graduate in Abacus** — Advanced mental arithmetic at age 15 |
+| 🧮 | **Master Graduate in Abacus** — advanced mental arithmetic at age 15 |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -504,34 +520,55 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
 
 ## 📜 Certifications
 
-<div align="center">
+<details>
+<summary><b>☁️ Generative AI & Cloud</b> &nbsp;·&nbsp; AWS &middot; Google Cloud &middot; IBM &nbsp;·&nbsp; <i>click to expand</i></summary>
+<br/>
 
-<table>
-<tr>
-<td>
+| Certificate | Issuer |
+|---|---|
+| Operationalizing Generative AI Applications (FMOps/LLMOps) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| AWS Academy Generative AI Foundations | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| Intro to Generative AI: A Beginner's Primer | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| Watson Services: Rapid Development for AI | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
 
-**☁️ Generative AI & Cloud**
-- 🟧 AWS — Operationalizing GenAI (FMOps/LLMOps)
-- 🟧 AWS Academy Generative AI Foundations
-- 🔵 Google Cloud — Intro to Generative AI
-- 🔷 IBM Watson — Rapid AI Development
+</details>
 
-</td>
-<td>
+<details>
+<summary><b>🤖 AI, ML & Data Science</b> &nbsp;·&nbsp; NPTEL &middot; Imperial College &middot; DeepLearning.AI &middot; IBM &middot; UC San Diego &nbsp;·&nbsp; <i>click to expand</i></summary>
+<br/>
 
-**🤖 AI, ML & Data Science**
-- 🏅 NPTEL Elite Top 2% — IIT Guwahati
-- 🎓 Math for ML — Imperial College London
-- 🧠 Probability & Stats — DeepLearning.AI
-- 🐍 Python for DS & AI — IBM (Coursera)
-- 📊 Data Structures — UC San Diego (Coursera)
-- 📊 GenAI Analytics — Tata Group (Forage)
+| Certificate | Issuer |
+|---|---|
+| User-Centric Computing for HCI — **Elite Top 2%** 🏆 | ![NPTEL](https://img.shields.io/badge/NPTEL-IIT_Guwahati-FF6B35?style=flat-square) |
+| Mathematics for Machine Learning | ![Imperial](https://img.shields.io/badge/Imperial_College_London-003E74?style=flat-square) |
+| Probability & Statistics for ML & DS | ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=flat-square) |
+| Python for Data Science, AI & Development | ![IBM](https://img.shields.io/badge/IBM_Coursera-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| Data Structures | ![UCSD](https://img.shields.io/badge/UC_San_Diego_Coursera-182B49?style=flat-square) |
+| Introduction to NoSQL Databases | ![IBM](https://img.shields.io/badge/IBM_Coursera-052FAD?style=flat-square&logo=ibm&logoColor=white) |
 
-</td>
-</tr>
-</table>
+</details>
 
-</div>
+<details>
+<summary><b>🏢 Industry Simulations</b> &nbsp;·&nbsp; Tata Group (Forage) &nbsp;·&nbsp; <i>click to expand</i></summary>
+<br/>
+
+| Certificate | Issuer |
+|---|---|
+| GenAI-Powered Data Analytics | ![Tata](https://img.shields.io/badge/Tata_Group-Forage-00A0DC?style=flat-square) |
+| Data Visualization for Business Insights | ![Tata](https://img.shields.io/badge/Tata_Group-Forage-00A0DC?style=flat-square) |
+
+</details>
+
+<details>
+<summary><b>🔄 In Progress</b></summary>
+<br/>
+
+| Certificate | Platform |
+|---|---|
+| Generative AI with LangChain & Hugging Face | Udemy |
+| Full Stack Development | NxtWave |
+
+</details>
 
 ---
 
@@ -539,32 +576,46 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
 
 ## 💼 Experience
 
-```
-🛡️ Oronzo LLP                           Founder & CEO                        2025 – Present
-   └── Building AI products: intelligent automation systems, AI security tooling
-   └── Shadow AI — Enterprise LLM Security Gateway (flagship product, actively shipping)
-   └── Driving product strategy, engineering, and AI research
+<br/>
 
-🏥 Apollo Hospitals, Hyderabad          AI/ML & Data Engineering Intern      April 2026 – June 2026
-   └── MedCausal: Causal ML on 500 real ICU patients · ATE bias 0.02d · E-value 3.54
-   └── 61K+ time-series vitals pipeline → InfluxDB → SQL → clinical anomaly detection
-   └── Counterfactual Streamlit dashboard with live what-if simulator
+**🛡️ Oronzo LLP** &nbsp;—&nbsp; **Founder & CEO** &nbsp;&nbsp; ![](https://img.shields.io/badge/2025%E2%80%93Present-8B5CF6?style=flat-square&labelColor=1a1a2e)
 
-🤖 Quadone Technologies, Hyderabad      AI Developer Intern                   April 2025 – May 2025
-   └── WhatsApp RAG chatbot — 100+ daily queries · +25% accuracy · reduced hallucinations
-   └── AI agents + healthcare analytics dashboards
+> Founded and leading Oronzo LLP, a multi-vertical technology group operating across multiple domains. Driving product vision, company strategy, team building, and end-to-end execution across all verticals — from ideation to deployment.
 
-🌐 Sarvani Software Solutions           WordPress Developer Intern            May 2025 – June 2025
-   └── Responsive websites with Elementor · +30% performance improvement
+🔗 **[www.oronzo.io](https://www.oronzo.io)**
 
-💻 ITSR                                 Web Developer Intern                  June 2025 – July 2025
-   └── User-focused web features · cross-functional collaboration
-```
+<br/>
+
+**🏥 Apollo Hospitals, Hyderabad** &nbsp;—&nbsp; **AI/ML & Data Engineering Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/Apr_2026%E2%80%93Jun_2026-10B981?style=flat-square&labelColor=1a1a2e)
+
+- Built **MedCausal** — Causal ML on 500 real ICU patients · ATE bias **0.02 days** · CATE r=**0.77** · E-value **3.54**
+- Engineered 61K+ vitals pipeline → InfluxDB → SQL analytics → clinical anomaly detection
+- Delivered 6-tab counterfactual Streamlit dashboard with live what-if simulator
+
+<br/>
+
+**🤖 Quadone Technologies** &nbsp;—&nbsp; **AI Developer Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/Apr_2025%E2%80%93May_2025-3B82F6?style=flat-square&labelColor=1a1a2e)
+
+- Built AI-powered WhatsApp RAG chatbot — 100+ daily queries · +25% accuracy · reduced hallucinations
+- Contributed to AI agents + healthcare analytics dashboards
+
+<br/>
+
+**🌐 Sarvani Software Solutions** &nbsp;—&nbsp; **WordPress Developer Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/May_2025%E2%80%93Jun_2025-F59E0B?style=flat-square&labelColor=1a1a2e)
+
+- Responsive websites with Elementor · +30% performance improvement
+
+<br/>
+
+**💻 ITSR** &nbsp;—&nbsp; **Web Developer Intern** &nbsp;&nbsp; ![](https://img.shields.io/badge/Jun_2025%E2%80%93Jul_2025-F59E0B?style=flat-square&labelColor=1a1a2e)
+
+- User-focused web features · cross-functional collaboration
 
 ---
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
+<!-- CONTRIBUTION GRAPH — uncomment when streak is active
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -572,6 +623,7 @@ Multi-agent RL for adaptive drone communication networks with Unity 3D visualisa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetanareddy18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6" width="95%"/>
 
 </div>
+-->
 
 ---
 
