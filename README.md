@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0533,60:2d1b69,100:0f0c29&height=320&section=header&text=Palla%20Chetana%20Reddy&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Founder%20%40%20Oronzo%20LLP&descAlignY=58&descSize=20&descColor=C4B5FD&stroke=8B5CF6&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI+Engineer+%E2%80%A2+ML+Engineer+%E2%80%A2+Data+Scientist;%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+University;%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engg+Intern+%40+Apollo+Hospitals+(Causal+ML+on+ICU+data);%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+Multi-Vertical+AI+Tech+Group;%F0%9F%94%AC+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+Computer+Vision;%F0%9F%8C+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+AI+Engineer+%E2%80%A2+ML+Engineer+%E2%80%A2+Data+Scientist;%F0%9F%8F%85+Gold+Medalist+%E2%80%A2+B.Tech+CSE+Data+Science+%40+Woxsen+University;%F0%9F%8F%A5+Ex+AI%2FML+%26+Data+Engineering+Intern+%40+Apollo+Hospitals;%F0%9F%8F%A2+Founder+%26+CEO+%40+Oronzo+LLP+%E2%80%94+Multi-Vertical+AI+Tech+Group;%F0%9F%8C%9F+Interests%3A+Causal+ML+%E2%80%A2+LLMs+%E2%80%A2+Stargazing+%F0%9F%8C%8C+%E2%80%A2+Competitive+Coding+%E2%80%A2+Building;%F0%9F%8F%86+NPTEL+Elite+Top+2%25+Nationally+%E2%80%A2+IIT+Hackathon+Finalist;%E2%9A%A1+30%2B+Projects+%E2%80%94+Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Cybersecurity" alt="Typing SVG" />
 
 <br/>
 
@@ -204,7 +204,7 @@ Founded and leading **Oronzo LLP**, a multi-vertical technology group operating 
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetanareddy18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetanareddy18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" height="175"/>
 </td>
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanareddy18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" height="175"/>
